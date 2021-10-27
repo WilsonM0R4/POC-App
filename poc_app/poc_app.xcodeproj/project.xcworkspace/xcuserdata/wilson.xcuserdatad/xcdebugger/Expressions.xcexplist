@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static AppDelegate.$main():AppDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FavoritesVC.tableView(_:numberOfRowsInSection:):FavoritesVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favorites">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RestaurantsVC.prevPressed():RestaurantsVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrPos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RestaurantsVC.nextPressed():RestaurantsVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrPos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "APIData.formatResponse(data:):APIData.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
